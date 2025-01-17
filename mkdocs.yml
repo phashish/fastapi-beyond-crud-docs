@@ -61,7 +61,7 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 theme:
-  name: material
+  name: dracula
   custom_dir: theme
   logo: img/logo.svg
   features:
